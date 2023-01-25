@@ -1,0 +1,102 @@
+.bill_details{
+    border: 3px solid black;
+    /* margin: 25px 100px;
+    padding: 10px 10px; */
+    margin: 50px 150px;
+    padding: 25px 25px;
+    font-size: 20px;
+  }
+
+.from_details{
+    text-align: end;
+}
+
+#headinginvoice{
+    color: black;
+    background-color: #c3c3c3;
+}
+
+#headdetails{
+    color: red;
+}
+
+.to_details p{
+    padding-left: 30px;
+}
+.contact_details p{
+    padding-left: 30px;
+}
+.invoice_det{
+    text-align: center;
+}
+
+.product_details{
+    padding-top: 20px;
+}
+
+
+.total{
+    /* text-align: end; */
+    /* display: inline; */
+    /* display: contents; */
+    /* display: none; */
+    background-color: aliceblue;
+    position: absolute;
+    /* border: 1px solid black; */
+}
+
+.payment_option{
+    align-items: flex-end;
+}
+.payment_option p{
+    padding-left: 30px;
+}
+
+.cont{
+    padding-top: 55px;
+    text-align: center;
+}
+
+th{
+    /* background-color: rgb(255, 166, 0); */
+    background-color: rgb(0 255 158 / 28%);;
+}
+td {
+    /* background-color: #c3c3c3; */
+    background-color:  #ebebebe6;
+    /* border: 1px solid black; */
+}
+
+th,
+td {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 20px 96px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
+
+.invoice{
+    text-align: center;
+}
+
+.end{
+    text-align:center;
+    padding-top: 30px;
+}
+
+#bttn{
+    background-color: rgb(255 255 255 / 50%);
+    border: 1px solid rgb(0 0 0);
+    border-radius: 10px;
+    color: black;
+    font-family: auto;
+    margin-top: 15px;
+}
+
+#bttn:hover{
+    background-color: rgb(202, 219, 214);
+}
